@@ -1,2 +1,1 @@
-# jordanshroyer.github.io
-my website
+# Jordan E. Shroyer
