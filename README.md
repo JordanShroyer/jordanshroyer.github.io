@@ -1,2 +1,2 @@
 # jordanshroyer.github.io
-[my website](https://sites.google.com/virginia.edu/jordanshroyer/)
+[view my google sites page](https://sites.google.com/virginia.edu/jordanshroyer/)
